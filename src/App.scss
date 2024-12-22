@@ -1,3 +1,5 @@
+@import "nprogress/nprogress.css";
+
 body {
   margin: 0;
   color: #fff;
@@ -15,7 +17,7 @@ body {
 }
 
 .content h1 {
-  font-size: 3.6rem;
+  font-size: $font-size;
   font-weight: 700;
 }
 
